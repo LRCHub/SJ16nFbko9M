@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Making Love",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:54:53.423983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who's Making Love",
+      "artist": "The Blues Brothers",
+      "has_synced": true,
+      "path": "select/01_Who's_Making_Love_The_Blues_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who’s Making Love",
+      "artist": "Blues Brothers",
+      "has_synced": true,
+      "path": "select/02_Who’s_Making_Love_Blues_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Should Be Making Love",
+      "artist": "Huey Lewis & The News",
+      "has_synced": true,
+      "path": "select/03_We_Should_Be_Making_Love_Huey_Lewis_&_The_News.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel Like Making Love",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/04_Feel_Like_Making_Love_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MAKING LOVE",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/05_MAKING_LOVE_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Making Love to Yourself",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/06_Making_Love_to_Yourself_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Making Love To The Money",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/07_Making_Love_To_The_Money_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Making Love",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/08_Making_Love_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Making Love (Extended Guitar Solo)",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/09_Making_Love_(Extended_Guitar_Solo)_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Making Love Out of Nothing At All",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/10_Making_Love_Out_of_Nothing_At_All_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Making Love to the Dead",
+      "artist": "BEGINNERS",
+      "has_synced": false,
+      "path": "select/11_Making_Love_to_the_Dead_BEGINNERS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Making Love Out Of Nothing At All",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/12_Making_Love_Out_Of_Nothing_At_All_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Making Love Out of Nothing at All",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/13_Making_Love_Out_of_Nothing_at_All_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who's Making Love",
+      "artist": "Johnnie Taylor",
+      "has_synced": false,
+      "path": "select/14_Who's_Making_Love_Johnnie_Taylor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Making Love - Extended Guitar Mix",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/15_Making_Love_-_Extended_Guitar_Mix_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Making Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Making_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Making Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Making_Love_宇多田_ヒカル.txt"
+    }
+  ]
+}
